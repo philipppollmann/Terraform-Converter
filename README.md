@@ -10,6 +10,12 @@ following...
 
 # base commands 📟
 > following...
+| Command | Description           |   |   |   |
+|---------|-----------------------|---|---|---|
+| tfconv  | following... and more |   |   |   |
+|         |                       |   |   |   |
+|         |                       |   |   |   |
+
 # documentation 📄
 ## stage_comparison ⚖️
 > The stage_comparison, compares two different stages, for example your development and production environment
