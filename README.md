@@ -3,6 +3,8 @@
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 # installation 👨‍🔧
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
 > following...
 ```shell
 following...
@@ -10,11 +12,6 @@ following...
 
 # base commands 📟
 > following...
-| Command | Description           |   |   |   |
-|---------|-----------------------|---|---|---|
-| tfconv  | following... and more |   |   |   |
-|         |                       |   |   |   |
-|         |                       |   |   |   |
 
 # documentation 📄
 ## stage_comparison ⚖️
